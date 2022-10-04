@@ -18,5 +18,5 @@ After that, you can simply run the jupyter notebooks in order.
 Daniel Yang, Thitaree Tanprasert, Teerapat Jenrungrot, and TJ Tsai.  "MIDI Passage Retrieval Using Cell Phone Pictures of 
 Sheet Music" in Proceedings of the International Society for Music Information Retrieval Conference, 2019, pp. 916-923.
 
-TJ Tsai, Daniel Yang, Mengyi Shan, Thitaree Tanprasert, and Teerapat Jenrungrot.  "Using Cell Phone Pictures of Sheet Music To Retrieve MIDI Passages" in IEEE Transactions on Multimedia, 2020, to appear.
+TJ Tsai, Daniel Yang, Mengyi Shan, Thitaree Tanprasert, and Teerapat Jenrungrot.  "Using Cell Phone Pictures of Sheet Music To Retrieve MIDI Passages" in IEEE Transactions on Multimedia, 22(5): 3115-3127, 2020.
 
